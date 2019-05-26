@@ -1,12 +1,15 @@
 {
   "pages": [
-    "pages/index/index",
-    "pages/logs/logs"
+
+    "pages/chooseBgm/chooseBgm",
+    "pages/mine/mine",
+    "pages/userRegist/regist",
+    "pages/index/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
+    "navigationBarTitleText": "让往事随风短视频",
     "navigationBarTextStyle": "black"
   },
   "sitemapLocation": "sitemap.json"
